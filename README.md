@@ -10,5 +10,5 @@ This project is a simple blockchain simulation developed as part of the QuadB Te
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/quadbtech_blockchain.git
+   git clone https://github.com/KARTHIK-K-P/quadbtech_blockchain.git
    cd quadbtech_blockchain
